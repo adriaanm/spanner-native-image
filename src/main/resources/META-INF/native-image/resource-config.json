@@ -1,0 +1,10 @@
+{
+  "resources":[
+    {"pattern":"\\QMETA-INF/native/libio_grpc_netty_shaded_netty_tcnative_osx_x86_64.jnilib\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.grpc.LoadBalancerProvider\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.grpc.ManagedChannelProvider\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.grpc.NameResolverProvider\\E"}, 
+    {"pattern":"\\Qgoogle-http-client.properties\\E"}
+  ],
+  "bundles":[]
+}
